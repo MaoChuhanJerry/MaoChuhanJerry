@@ -1,6 +1,7 @@
 ## Hi there 👋
 I’m a first-year ECE student at HKU (HKU ECE '30) with extensive experience in electronic design competitions. I’m proficient in Python, C++, Verilog, and have hands-on experience with LTspice, Altium Designer, and Keil. My research interests lie in full-stack AI hardware development, SerDes, optical computing modules, and EDA toolchains, with a particular focus on leveraging AI to empower hardware development—integrating information and enabling end-to-end design simulation. 
 I’m also well-versed in various IDEs and platforms, including Codex, Cursor, VS Code, Trae, and Codebuddy.
+Find more about me: www.linkedin.com/in/chuhan-mao-b2165643a
 
 <!--
 **MaoChuhanJerry/MaoChuhanJerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
